@@ -1,0 +1,7 @@
+/* CSS Document */
+a { text-decoration: none }
+a:hover { text-decoration: underline; color: red;
+ background-color: #CCFFCC }
+ul { margin-left: 2cm }
+ul ul { text-decoration: underline;
+ margin-left: .5cm }
